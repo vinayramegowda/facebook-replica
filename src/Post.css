@@ -57,9 +57,10 @@
 
 .post__option > p {
 	margin-left: 10px;
+	cursor: pointer;
 }
 
-.post__option :hover {
+.post__option:hover {
 	background-color: #eff2f5;
 	border-radius: 10px;
 }
